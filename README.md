@@ -10,7 +10,6 @@
   + Improving my [website](https://ntrinsically.com) by working through the [submitted bugs](https://github.com/anthonymorast/ntrinsic_bugs)
   + Updating [DataTables](https://github.com/anthonymorast/DataTables) for the sake of efficiency and functionality
 
----
 
 ### Education
 + 📃 Applied and Compuational Mathematics, B.S.
@@ -25,8 +24,6 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="5%" height="5%">
 </p>
 
----
-
 ### Some More Things I Can Use
 <p>
   <img src="https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon.png" width="4%" height="4%">
@@ -39,8 +36,6 @@
   <img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon.png" width="5%" height="5%">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="5%" height="5%">
 </p>
-
----
 
 ### Connect With Me
 📧 [Email](mailto:anthony.a.morast@gmail.com)
