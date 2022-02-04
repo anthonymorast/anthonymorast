@@ -4,7 +4,8 @@
 + 💼 I am Software Developer at [NISC](http://nisc.coop)
 + 📖 I have a blog on my [personal website](https://anthonymorast.com/blog) and [Medium](https://medium.com/@anthony-a-morast)
 + 🏫 I've just finished applying to Applied Mathematics PhD programs
-+ 📗 I'm reading *Foolproof* by Brian Hayes and working through *Computational Fluid Dynamics* by John D. Anderson
++ 📗 I'm reading *Mathematical Finance: A Very Short Introduction* by Mark Davis
++ 💬 Ich lerne Deutsch.
 + 👷 I'm currently working on:
   + A fluid dynamics simulation playground in C++ using the Lattice Boltzmann method
   + Improving my [website](https://ntrinsically.com) by working through the [submitted bugs](https://github.com/anthonymorast/ntrinsic_bugs)
