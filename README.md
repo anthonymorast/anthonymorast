@@ -3,7 +3,6 @@
 ### About Me
 + 💼 I am Software Developer at [NISC](http://nisc.coop)
 + 📖 I have a blog on my [personal website](https://anthonymorast.com/blog) and [Medium](https://medium.com/@anthony-a-morast)
-+ 🏫 I've just finished applying to Applied Mathematics PhD programs
 + 📗 I'm reading *Mathematical Finance: A Very Short Introduction* by Mark Davis
 + 💬 Ich lerne Deutsch.
 + 👷 I'm currently working on:
