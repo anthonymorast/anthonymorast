@@ -1,7 +1,7 @@
 ## Anthony Morast
 
 ### About Me
-+ 💼 I am Software Developer at [NISC](http://nisc.coop)
++ 💼 I am C++ Software Engineer at [Sterling Trading Tech](https://www.sterlingtradingtech.com/)
 + 📖 I have a blog on my [personal website](https://anthonymorast.com/blog) and [Medium](https://medium.com/@anthony-a-morast)
 + 📗 I'm reading *Mathematical Finance: A Very Short Introduction* by Mark Davis
 + 💬 Ich lerne Deutsch.
