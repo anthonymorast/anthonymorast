@@ -8,7 +8,6 @@
 + 👷 I'm currently working on:
   + A fluid dynamics simulation playground in C++ using the Lattice Boltzmann method
   + Improving my [website](https://ntrinsically.com) by working through the [submitted bugs](https://github.com/anthonymorast/ntrinsic_bugs)
-  + Updating [DataTables](https://github.com/anthonymorast/DataTables) for the sake of efficiency and functionality
   + An [API wrapper around the FMP cloud API](https://github.com/anthonymorast/FMPCloudAPI) in C++
 
 
