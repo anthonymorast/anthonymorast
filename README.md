@@ -3,7 +3,7 @@
 ### About Me
 + 💼 I am C++ Software Engineer at [Sterling Trading Tech](https://www.sterlingtradingtech.com/)
 + 📖 I have a blog on my [personal website](https://anthonymorast.com/blog) and [Medium](https://medium.com/@anthony-a-morast)
-+ 📗 I'm reading *Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control* by Steven L. Brunton and J. Nathan Kutz
++ 📗 I'm reading *An Introduction to Mathematical Finance with Applications* by Arlie O. Petters and Xiaying Dong.
 + 💬 Ich lerne Deutsch.
 + 👷 I'm currently working on:
   + A fluid dynamics simulation playground in C++ using the Lattice Boltzmann method
