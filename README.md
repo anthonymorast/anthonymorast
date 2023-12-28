@@ -21,6 +21,7 @@
 ### Things I Really Like to Use
 <p>
   <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="5%" height="5%">
+  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" width="6%" height="6%">
   <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="5%" height="5%">
 </p>
 
