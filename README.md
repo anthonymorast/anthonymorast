@@ -6,9 +6,9 @@
 + 📗 I'm reading *An Introduction to Mathematical Finance with Applications* by Arlie O. Petters and Xiaying Dong.
 + 💬 Ich lerne Deutsch.
 + 👷 I'm currently working on:
-  + A fluid dynamics simulation playground in C++ using the Lattice Boltzmann method
+  + A fluid dynamics simulation playground in Rust using the Lattice Boltzmann method
   + Improving my [website](https://ntrinsically.com) by working through the [submitted bugs](https://github.com/anthonymorast/ntrinsic_bugs)
-  + An algorithmic trading framework in C++
+  + Option pricing via binomial models in Rust
 
 
 ### Education
