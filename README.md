@@ -1,8 +1,8 @@
 ## Anthony Morast
 
 ### About Me
-+ 💼 I am C++ Software Engineer at [Sterling Trading Tech](https://www.sterlingtradingtech.com/)
-+ 📖 I have a blog on my [personal website](https://anthonymorast.com/blog) and [Medium](https://medium.com/@anthony-a-morast)
++ 💼 I am Senior Software Engineer at [Alpaca](https://alpaca.markets/) developing backend trading systems
++ 📖 I have a blog on [Medium](https://medium.com/@anthony-a-morast) that I try to publish to regularly 
 + 📗 I'm reading *An Introduction to Mathematical Finance with Applications* by Arlie O. Petters and Xiaying Dong.
 + 💬 Ich lerne Deutsch.
 + 👷 I'm currently working on:
