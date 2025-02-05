@@ -45,9 +45,9 @@
 
 ---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymorast&hide=postscript,gnuplot)](https://github.com/anthonymorast/)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymorast&hide=postscript,gnuplot&theme=darcula)](https://github.com/anthonymorast/)
 
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonymorast&show_icons=true)
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonymorast&show_icons=true&&show=reviews,prs_merged&theme=darcula)
 
 <!--
 **anthonymorast/anthonymorast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
