@@ -1,9 +1,9 @@
 ## Anthony Morast
 
 ### About Me
-+ 💼 I am Senior Software Engineer at [Alpaca](https://alpaca.markets/) developing backend trading systems
++ 💼 I am Engineering Team Lead at [Alpaca](https://alpaca.markets/) developing margin and risk systems
 + 📖 I have a blog on [Medium](https://medium.com/@anthony-a-morast) that I try to publish to regularly 
-+ 📗 I'm reading *An Introduction to Mathematical Finance with Applications* by Arlie O. Petters and Xiaying Dong.
++ 📗 I'm reading *Advances in Financial Machine Learning* by Lopez De Prado
 + 💬 Ich lerne Deutsch.
 + 👷 I'm currently working on:
   + A fluid dynamics simulation playground in Rust using the Lattice Boltzmann method
